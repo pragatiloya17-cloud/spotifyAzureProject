@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryspotifypragati",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9e7c830-c454-43e9-9b0a-46b00e32a5b9",
+		"tenantId": "ecd4cd3b-dd4d-4c7e-b497-1e67ee773313"
+	}
+}
