@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "datafactoryspotifypragati"
+		},
+		"AzureDataLakeSpotify1_accountKey": {
+			"value": ""
+		},
+		"AzureSqlSpotifyDatabase1_password": {
+			"value": ""
+		},
+		"AzureDataLakeSpotify1_properties_typeProperties_url": {
+			"value": "https://datalakespotifypragati.dfs.core.windows.net/"
+		},
+		"AzureSqlSpotifyDatabase1_properties_typeProperties_server": {
+			"value": "sql-spotify-pragati.database.windows.net"
+		},
+		"AzureSqlSpotifyDatabase1_properties_typeProperties_database": {
+			"value": "dbSpotifyPragati"
+		},
+		"AzureSqlSpotifyDatabase1_properties_typeProperties_userName": {
+			"value": "adminpragati"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
